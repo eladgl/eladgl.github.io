@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MobilityMate/static/css/main.f64ec082.css",
+    "main.js": "/MobilityMate/static/js/main.0fc3e937.js",
+    "index.html": "/MobilityMate/index.html",
+    "main.f64ec082.css.map": "/MobilityMate/static/css/main.f64ec082.css.map",
+    "main.0fc3e937.js.map": "/MobilityMate/static/js/main.0fc3e937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64ec082.css",
+    "static/js/main.0fc3e937.js"
+  ]
+}
