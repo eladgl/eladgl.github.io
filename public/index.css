@@ -1,0 +1,34 @@
+body {
+    color:white;
+    background-color: #242582;
+    width:98vw;
+    height:98vh;
+    
+}
+
+
+@media only screen and (max-width: 846px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border:none;
+        border-bottom: black;
+    }
+
+    nav a {
+        display: 1;
+    }
+} 
+
+@media only screen and (min-width: 846px) {
+    nav {
+        display: flex;
+        flex-direction: row;
+    }
+
+    nav a {
+        display: 1;
+    }
+}
